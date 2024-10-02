@@ -1,8 +1,2 @@
 Avant-hier, Catherine avait 17 ans ; l’année prochaine, elle aura 20 ans. Comment est-ce possible ?
-<<<<<<< HEAD
 réponse : nous sommes le 1er janvier. Catherine a fété ses 18 ans le 30 decembre
-=======
-
-réponse : nous sommes le 1er janvier. Catherine a fété ses 18 ans le 30 decembre
-
->>>>>>> 98fff3b38cba675810d5835749570a66034bdb98

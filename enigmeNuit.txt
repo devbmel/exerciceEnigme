@@ -1,10 +1,4 @@
 
-<<<<<<< HEAD
-Qu'est-ce qui commence la nuit et termine le matin ?
-un reve - Artem
-
-=======
 
 Qu'est-ce qui commence la nuit et termine le matin ?
 un reve - Artem
->>>>>>> 98fff3b38cba675810d5835749570a66034bdb98
