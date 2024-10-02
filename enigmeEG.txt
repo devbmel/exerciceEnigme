@@ -2,4 +2,8 @@
 
 Je suis léger comme une plume, mais même le plus fort des hommes ne peut me tenir longtemps. Que suis-je ?
 
+<<<<<<< HEAD
 le souffle
+=======
+réponse : l'air
+>>>>>>> 98fff3b38cba675810d5835749570a66034bdb98
